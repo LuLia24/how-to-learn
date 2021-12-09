@@ -282,7 +282,7 @@
 
 .logo_place_footer {
   width: 183px;
-  height: 35;
+  height: 35px;
 }
 .footer__author {
   line-height: 25px;
@@ -320,8 +320,7 @@
   text-decoration: none;
 }
 
-.footer__column_content_social {
-}
+
 .footer__social-icon {
   padding: 0;
   margin: 0 10px 0 0;
