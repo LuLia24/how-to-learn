@@ -21,8 +21,7 @@
   z-index: -5;
   overflow: hidden;
 }
-.logo {
-}
+
 
 .logo_place_header {
   position: absolute;
@@ -69,7 +68,6 @@
   position: absolute;
   top: 64px;
   right: 0;
-  z-index: 3;
   background-color: #2f80ed;
   z-index: -3;
 }
@@ -281,8 +279,7 @@
   flex-basis: 711px;
   justify-content: space-between;
 }
-.logo {
-}
+
 .logo_place_footer {
   width: 183px;
   height: 35;
